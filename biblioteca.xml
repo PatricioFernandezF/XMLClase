@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><biblioteca>
+    <libro>
+        <titulo>El Principito</titulo>
+        <autor>Antoine de Saint-Exupéry</autor>
+        <año>1943</año>
+    </libro>
+    <libro>
+        <titulo>Cien Años de Soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <año>1967</año>
+    </libro>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <año>1605</año>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <año>1949</año>
+    </libro>
+    <libro>
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <año>1813</año>
+    </libro>
+    <libro>
+        <titulo>Crónica de una muerte anunciada</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <año>1981</año>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+        <año>1997</año>
+    </libro>
+    <libro>
+        <titulo>En el camino</titulo>
+        <autor>Jack Kerouac</autor>
+        <año>1957</año>
+    </libro>
+    <libro>
+        <titulo>Matar a un ruiseñor</titulo>
+        <autor>Harper Lee</autor>
+        <año>1960</año>
+    </libro>
+    <libro>
+        <titulo>El señor de los anillos</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <año>1954</año>
+    </libro>
+    <libro>
+        <titulo>Los miserables</titulo>
+        <autor>Victor Hugo</autor>
+        <año>1862</año>
+    </libro>
+    <libro>
+        <titulo>El Gran Gatsby</titulo>
+        <autor>F. Scott Fitzgerald</autor>
+        <año>1925</año>
+    </libro>
+    <libro>
+        <titulo>Mujer en punto cero</titulo>
+        <autor>Nawal El Saadawi</autor>
+        <año>1975</año>
+    </libro>
+    <libro>
+        <titulo>El retrato de Dorian Gray</titulo>
+        <autor>Oscar Wilde</autor>
+        <año>1890</año>
+    </libro>
+    <libro>
+        <titulo>La Odisea</titulo>
+        <autor>Homero</autor>
+        <año>Siglo VIII a.C.</año>
+    </libro>
+    <libro>
+        <titulo>El nombre del viento</titulo>
+        <autor>Patrick Rothfuss</autor>
+        <año>2007</año>
+    </libro>
+    <libro>
+        <titulo>El juego de Ender</titulo>
+        <autor>Orson Scott Card</autor>
+        <año>1985</año>
+    </libro>
+    <libro>
+        <titulo>Anna Karenina</titulo>
+        <autor>León Tolstói</autor>
+        <año>1877</año>
+    </libro>
+    <libro>
+        <titulo>Frankenstein</titulo>
+        <autor>Mary Shelley</autor>
+        <año>1818</año>
+    </libro>
+    <libro>
+        <titulo>Rayuela</titulo>
+        <autor>Julio Cortázar</autor>
+        <año>1963</año>
+    </libro>
+    <libro>
+        <titulo>La insoportable levedad del ser</titulo>
+        <autor>Milan Kundera</autor>
+        <año>1984</año>
+    </libro>
+    <libro>
+        <titulo>El alquimista</titulo>
+        <autor>Paulo Coelho</autor>
+        <año>1988</año>
+    </libro>
+    <libro>
+        <titulo>Los juegos del hambre</titulo>
+        <autor>Suzanne Collins</autor>
+        <año>2008</año>
+    </libro>
+    <libro>
+        <titulo>La sombra del viento</titulo>
+        <autor>Carlos Ruiz Zafón</autor>
+        <año>2001</año>
+    </libro>
+    <libro>
+        <titulo>El código Da Vinci</titulo>
+        <autor>Dan Brown</autor>
+        <año>2003</año>
+    </libro>
+    <libro>
+        <titulo>El Señor de las Moscas</titulo>
+        <autor>William Golding</autor>
+        <año>1954</año>
+    </libro>
+    <libro>
+        <titulo>El laberinto de la soledad</titulo>
+        <autor>Octavio Paz</autor>
+        <año>1950</año>
+    </libro>
+    <libro>
+        <titulo>El león, la bruja y el armario</titulo>
+        <autor>C.S. Lewis</autor>
+        <año>1950</año>
+    </libro>
+    <libro>
+        <titulo>Drácula Me da Miedo</titulo>
+        <autor>Bram Stoker</autor>
+        <año>1897</año>
+    </libro>
+    <libro>
+        <titulo>El retrato de Dorian Gray</titulo>
+        <autor>Oscar Wilde</autor>
+        <año>1890</año>
+    </libro>
+    <libro>
+        <titulo>El guardián entre el centeno</titulo>
+        <autor>J.D. Salinger</autor>
+        <año>1951</año>
+    </libro>
+    <libro>
+        <titulo>El señor de las moscas</titulo>
+        <autor>William Golding</autor>
+        <año>1954</año>
+    </libro>
+    <libro>
+        <titulo>La naranja mecánica</titulo>
+        <autor>Anthony Burgess</autor>
+        <año>1962</año></libro>
+
+</biblioteca>
